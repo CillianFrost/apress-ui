@@ -1,0 +1,32 @@
+.aui-rubric-block__wrapper {
+  padding: 12px 18px;
+  border-radius: 3px;
+  width: 100%;
+}
+
+.aui-rubric-block__title {
+  margin-bottom: 6px;
+}
+
+.aui-rubric-block__link {
+  text-decoration: none;
+  color: var(--cyan-blue);
+  font-size: 14px;
+  line-height: 21px;
+  font-family: 'Open-Sans';
+}
+
+.aui-rubric-block__tree {
+  color: var(--light-cyan-blue);
+  font-size: 12px;
+  line-height: 18px;
+  font-family: 'Open-Sans';
+}
+
+.aui-rubric-block__wrapper--solid {
+  border: 1px solid var(--cyan-blue);
+}
+
+.aui-rubric-block__wrapper--light {
+  border: 1px solid var(--lighter-cyan-blue);
+}

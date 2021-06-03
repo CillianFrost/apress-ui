@@ -16,6 +16,14 @@
   font-weight: normal;
 }
 
+.aui-header_m-shade-blue {
+  font-weight: bold;
+  font-size: 18px;
+  line-height: 24px;
+  letter-spacing: 0.03em;
+  color: var(--dark-shade-blue);
+}
+
 @media all and (max-width: 767px) {
   .aui-header_l {
     font-size: 18px;

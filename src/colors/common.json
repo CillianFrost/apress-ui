@@ -2,7 +2,11 @@
   "common": {
     "description": "общие цвета, используются на всех порталах",
     "colors": {
-      "shuttle-grey": "#61656f"
+      "shuttle-grey": "#61656f",
+      "dark-shade-blue": "#2f3644",
+      "cyan-blue": "#028dd8",
+      "light-cyan-blue": "#8695ac",
+      "lighter-cyan-blue": "#e3f5ff"
     }
   }
 }

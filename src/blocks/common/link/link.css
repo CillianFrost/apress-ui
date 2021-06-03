@@ -1,1 +1,12 @@
 .aui-link {}
+
+.aui-link__dotted {
+  text-decoration: none;
+  padding-bottom: 1px;
+  border-bottom: 1px dotted var(--cyan-blue);
+  color: var(--cyan-blue);
+  font-size: 13px;
+  font-family: 'Arial';
+  font-weight: 700;
+  line-height: 23px;
+}
