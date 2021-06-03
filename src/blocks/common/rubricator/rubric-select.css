@@ -1,0 +1,40 @@
+.aui-rubric-select__wrapper {
+  width: 100%;
+  border: 1px solid var(--sea-grey);
+  border-radius: 3px;
+  display: flex;
+  align-items: center;
+}
+
+.aui-rubric-select__arrow {
+  width: 6px;
+  height: 6px;
+  border: 1px solid var(--sea-grey);
+  border-top: 0;
+  border-left: 0;
+  margin-right: 12px;
+}
+
+.aui-rubric-select__title {
+  color: var(--sea-grey);
+  font-size: 14px;
+  line-height: 21px;
+  font-family: 'Open Sans';
+}
+
+.aui-rubric-select__wrapper--closed {
+  padding: 12px 18px;
+}
+
+.aui-rubric-select__wrapper--opened {
+  padding: 6px 18px;
+  background-color: var(--extra-white);
+}
+
+.aui-rubric-select__arrow--closed {
+  transform: rotate(45deg) translateY(-3px);
+}
+
+.aui-rubric-select__arrow--opened {
+  transform: rotate(-45deg);
+}

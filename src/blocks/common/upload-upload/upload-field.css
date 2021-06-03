@@ -1,0 +1,13 @@
+.upload-field {
+  padding-top: 90px;
+  color: #61656f;
+  font-size: 14px;
+  height: 160px;
+  border: 2px dashed #c1c1c1;
+  text-align: center;
+}
+
+.upload-field::-moz-drag-over {
+  background-position: 50% 41px;
+  border-color: #028dd8;
+}

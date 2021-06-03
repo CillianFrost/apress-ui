@@ -30,3 +30,8 @@
 .aui-rubric-block__wrapper--light {
   border: 1px solid var(--lighter-cyan-blue);
 }
+
+.aui-rubric-block__wrapper--active {
+  border: 1px solid var(--cyan-blue);
+  background-color: var(--lighter-cyan-blue);
+}

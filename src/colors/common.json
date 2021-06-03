@@ -6,7 +6,9 @@
       "dark-shade-blue": "#2f3644",
       "cyan-blue": "#028dd8",
       "light-cyan-blue": "#8695ac",
-      "lighter-cyan-blue": "#e3f5ff"
+      "lighter-cyan-blue": "#e3f5ff",
+      "sea-grey": "#9a9a9a",
+      "extra-white": "#f6f5f3"
     }
   }
 }
