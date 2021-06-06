@@ -1,13 +1,17 @@
-.upload-field {
+.aui-upload-field {
+  background-image: url('upload-field-icon.svg');
+  background-repeat: no-repeat;
+  background-position: 50% 36px;
   padding-top: 90px;
   color: #61656f;
   font-size: 14px;
   height: 160px;
   border: 2px dashed #c1c1c1;
   text-align: center;
+  width: 360px;
 }
 
-.upload-field::-moz-drag-over {
+.aui-upload-field::-moz-drag-over {
   background-position: 50% 41px;
   border-color: #028dd8;
 }
